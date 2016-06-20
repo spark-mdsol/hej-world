@@ -1,2 +1,4 @@
 # hej-world
-Just another repository
+
+Hello, everybody!
+Have a great day and be happy anytimes. 
